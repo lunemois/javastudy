@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-// dkldfdf
+// dkldfdf ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
 public class VendingMachine {
     public static void main(String[] args) {
         User user = new user();
